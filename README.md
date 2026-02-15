@@ -24,7 +24,7 @@ Simply go to the "Windows Users" folder and execute the CipherPWD.exe applicatio
 1. **Clone the GitHub repository**:
 
    ```bash
-   git clone https://github.com/amsou-ismail/CipherPWD.git
+   git clone https://github.com/3SS1L4/CipherPWD.git
    cd CipherPWD
    ```
    or
@@ -89,14 +89,14 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/amsou-ismail" target="_blank">
-        <img src="https://github.com/amsou-ismail.png" width="100" height="100" style="border-radius: 20px;" alt="Ismail GitHub"/><br/>
+      <a href="https://github.com/3SS1L4" target="_blank">
+        <img src="https://github.com/3SS1L4.png" width="100" height="100" style="border-radius: 20px;" alt="Ismail GitHub"/><br/>
         <sub><b>AMSOU ISMAIL</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/AMARS44D" target="_blank">
-        <img src="https://github.com/AMARS44D.png" width="100" height="100" style="border-radius: 20px;" alt="Saad GitHub"/><br/>
+      <a href="https://github.com/CR0M80" target="_blank">
+        <img src="https://github.com/CR0M80.png" width="100" height="100" style="border-radius: 20px;" alt="Saad GitHub"/><br/>
         <sub><b>AMAR SAAD</b></sub>
       </a>
     </td>
@@ -105,5 +105,5 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 ## LinkedIn Profiles (If a problem occurs, please contact us)
 
-- [AMSOU ISMAIL](https://www.linkedin.com/in/amsou-ismail)
+- [AMSOU ISMAIL](https://www.linkedin.com/in/3SS1L4)
 - [AMAR SAAD](https://www.linkedin.com/in/amar-saad)
